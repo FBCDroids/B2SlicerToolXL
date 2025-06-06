@@ -1,7 +1,10 @@
 <> json
+
 { 
-"DroidNames": [
-  “c6:fb:a1:9b:8e:fc", "R3-P1",
+
+“DroidNames” 
+
+  [“c6:fb:a1:9b:8e:fc", "R3-P1",
   "ed:ca:ed:30:d6:71", "R2-P3",
   "de:ea:1d:ad:d8:67", "R2-F4B",
   "f6:9a:32:3a:9c:b2", "R3-D2",
@@ -13,7 +16,7 @@
   "f9:e2:57:5a:50:42", "1R1SH-1",
   "c7:df:02:ba:74:f9", "R2-D2",
   "e3:5e:50:46:32:60", "R2-D2",
-  "E3:5E:50:46:32:60", "R2-BKC",
+  "E3:5E:50:46:32:60", "BKC R2",
   "ce:e0:44:fd:96:22", "L0-1S",
   "fb:53:cc:63:b7:76", "L3-X1",
   "fb:0c:58:fc:bb:a8", "BB-UV",
@@ -114,6 +117,6 @@
   "70:9c:d1:fd:67:4e", "R3-4PR",
   "cf:a8:fc:3d:d2:77", "R3-H9",
   "dd:06:3d:4c:b5:cb", "R2-DC",
-  "cf:a9:c8:c5:64:ee", "FBC Droids”
-  ]
+  "cf:a9:c8:c5:64:ee", "FBC Droids”]
+  
 }
