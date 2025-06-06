@@ -1,9 +1,6 @@
 <> json
-
 { 
-
 “DroidNames”: [
-
   “c6:fb:a1:9b:8e:fc", "R3-P1",
   "ed:ca:ed:30:d6:71", "R2-P3",
   "de:ea:1d:ad:d8:67", "R2-F4B",
@@ -117,6 +114,6 @@
   "70:9c:d1:fd:67:4e", "R3-4PR",
   "cf:a8:fc:3d:d2:77", "R3-H9",
   "dd:06:3d:4c:b5:cb", "R2-DC",
-  "cf:a9:c8:c5:64:ee", "FBC Droids”]
-  
+  "cf:a9:c8:c5:64:ee", "FBC Droids”
+  ]
 }
