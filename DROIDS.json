@@ -2,9 +2,9 @@
 
 { 
 
-“DroidNames” 
+“DroidNames”: [
 
-  [“c6:fb:a1:9b:8e:fc", "R3-P1",
+  “c6:fb:a1:9b:8e:fc", "R3-P1",
   "ed:ca:ed:30:d6:71", "R2-P3",
   "de:ea:1d:ad:d8:67", "R2-F4B",
   "f6:9a:32:3a:9c:b2", "R3-D2",
