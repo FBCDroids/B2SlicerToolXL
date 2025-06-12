@@ -2,7 +2,7 @@
     "DroidNameColors": [
  {"mac": "fa:c9:4a:d4:cf:c6",  "color": "0x780F"},
  {"mac": "c6:fb:a1:9b:8e:fc", "color": "0xC618"},
- {"mac": "f9:e2:57:5a:50:42",  "color": "0x001F"},
- {"mac": "e3:5e:50:46:32:60",  "color": "0x07E0"}
+ {"mac": "f9:e2:57:5a:50:42",  "color": "0x07E0"},
+ {"mac": "e3:5e:50:46:32:60",  "color": "0x001F"}
 ]
 }
