@@ -1,8 +1,8 @@
 {
     "DroidMACAffiliations": [
- {"mac": "f6:36:3c:a7:0b:47",  "Affiliation": "RebelAlliance"},
- {"mac": "e3:5e:50:46:32:60",  "Affiliation": "RebelAlliance"},
- {"mac":  "c6:fb:a1:9b:8e:fc", "Affiliation": "RomanCatholic"},
+ {"mac": "f6:36:3c:a7:0b:47",  "Affiliation": "Rebel Alliance"},
+ {"mac": "e3:5e:50:46:32:60",  "Affiliation": "Rebel Alliance"},
+ {"mac":  "c6:fb:a1:9b:8e:fc", "Affiliation": "Roman Catholic"},
  {"mac":  "ec:46:41:d9:e4:f9", "Affiliation": "Resistance"},
  {"mac":  "fe:ea:14:f4:88:01", "Affiliation": "Resistance"},
  {"mac":  "e2:64:2d:4c:1e:9c", "Affiliation": "Resistance"},
@@ -12,12 +12,12 @@
  {"mac":  "fb:53:cc:63:b7:76", "Affiliation": "Resistance"},
  {"mac":  "ce:45:7d:bc:8c:4d", "Affiliation": "Scoundrel"},
  {"mac":  "fb:0c:58:fc:bb:a8", "Affiliation": "Scoundrel"},
- {"mac":  "f4:a6:99:7d:db:ea", "Affiliation": "KedexBazzok"},
- {"mac":  "ef:8f:10:5c:11:6e", "Affiliation": "KedexBazzok"},
- {"mac":  "f3:e2:90:e5:b9:ff", "Affiliation": "KedexBazzok"},
+ {"mac":  "f4:a6:99:7d:db:ea", "Affiliation": "Kedex Bazzok"},
+ {"mac":  "ef:8f:10:5c:11:6e", "Affiliation": "Kedex Bazzok"},
+ {"mac":  "f3:e2:90:e5:b9:ff", "Affiliation": "Kedex Bazzok"},
  {"mac":  "c1:4f:00:c7:f8:b6", "Affiliation": "Chandrilla"},
- {"mac":  "ea:7a:c2:a9:3e:07", "Affiliation": "DisneyWorld"},
- {"mac":  "f9:fc:36:c1:d0:5a", "Affiliation": "Planet9Fiend"},
+ {"mac":  "ea:7a:c2:a9:3e:07", "Affiliation": "Disney World"},
+ {"mac":  "f9:fc:36:c1:d0:5a", "Affiliation": "Planet 9Fiend"},
  {"mac":  "f0:41:df:25:44:6f", "Affiliation": "Scoundrel"}
 ]
 }
