@@ -446,7 +446,12 @@
         },
         {
             "mac": "dd:06:3d:4c:b5:cb",
-            "name": "R2-DC"
+            "name": "R2-DC",
+        {
+            "mac": "cf:a9:c8:c5:64:ee",
+            "name": "FBC Droids"
+        }
+
         }
     ]
 }
