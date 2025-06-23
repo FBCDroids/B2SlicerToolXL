@@ -449,6 +449,18 @@
             "name": "R2-DC"
         },
         {
+            "mac": "ff:b3:b3:f2:1f:51",
+            "name": "J4-ZZ"
+        },
+        {
+            "mac": "f7:1d:20:ec:61:41",
+            "name": "G1Z-M0"
+        },
+        {
+            "mac": "cd:71:7d:b9:5b:bd",
+            "name": "C1-10P"
+        },
+        {
             "mac": "cf:a9:c8:c5:64:ee",
             "name": "FBC Droids"
         }
